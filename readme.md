@@ -1,3 +1,10 @@
-Prerequisites:
+# Text Similarity via BERT
 
-!pip install transformers fastapi
+This is straightforward application of pretrained BERT transformer for text similarity scoring. 
+
+Script is wrapped with FastApi.
+
+
+## Prerequisites: 
+
+```!pip install fastapi transformers```
